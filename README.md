@@ -1,6 +1,6 @@
-**В зип файле находится проект**
+***В зип файле находится проект***
 
-# school-aggregator
+# School-aggregator
 Completely implemented the frontend part as part of the creation of the Edchart project.
 The project is an aggregator of courses and allows the user to perform a comfortable search for online schools and courses, get acquainted with their educational programs and choose the best one for themselves. The platform also allows you to get acquainted with the rating of schools and reviews on them and leave a review yourself.
 Designed and created new functionality, participated in the code review process, assessed the complexity of development and participated in planning.
