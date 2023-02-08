@@ -1,4 +1,4 @@
-# В зип файле находится проект
+**В зип файле находится проект**
 
 # school-aggregator
 Completely implemented the frontend part as part of the creation of the Edchart project.
